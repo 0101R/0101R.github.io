@@ -1,2 +1,2 @@
 # 0101R.github.io
-Real Mangamenet
+Real Mangement
